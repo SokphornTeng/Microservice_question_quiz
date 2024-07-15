@@ -1,10 +1,10 @@
-package com.Microservice.QuizService;
+package com.Microservice.ServiceRegistry;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class QuizServiceApplicationTests {
+class ServiceRegistryApplicationTests {
 
 	@Test
 	void contextLoads() {
