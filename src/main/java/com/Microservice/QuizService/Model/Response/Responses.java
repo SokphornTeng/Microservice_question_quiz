@@ -1,4 +1,4 @@
-package com.Microservice.QuestionService.Model.Response;
+package com.Microservice.QuizService.Model.Response;
 
 import lombok.AllArgsConstructor;
 import lombok.RequiredArgsConstructor;
